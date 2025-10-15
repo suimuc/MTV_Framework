@@ -1,0 +1,58 @@
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX/
+Icon[
+]
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# IDEA / JetBrains 相关
+.idea/
+*.iml
+
+# Python 常见缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VSCode（如果你用它）
+.vscode/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# 临时或日志文件
+*.log
+*.tmp
+*.swp
+*.bak
+
+# 环境文件（根据实际需要选择性忽略）
+.env
+.venv/
+env/
+venv/
+
