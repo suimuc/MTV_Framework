@@ -4,7 +4,7 @@ Official implementation of "Audio-Sync Video Generation with Multi-Stream Tempor
 <table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
   <tr>
     <td>
-      <video align='center' src="https://hjzheng.net/projects/MTV/mtv_demo_video.mp4" autoplay loop></video>
+      <video align='center' src="https://github.com/user-attachments/assets/e9927831-f0d0-4195-9ead-ecd2fe1ca7c6" autoplay loop></video>
     </td>
   </tr>
     <tr align="center">
